@@ -1,0 +1,18 @@
+.announcement {
+    background-color: deepskyblue;
+}
+#marqueeStyle {
+    font-size: 20;
+    color: white;
+}
+#j{
+    width: 300px;
+    height: 300px;
+    text-align: center
+}
+#welcome{
+    text-align: center;
+}
+.span p{
+    color: red;
+}
